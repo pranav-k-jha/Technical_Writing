@@ -2,13 +2,13 @@
 
 This repository contains a collection of technical writing examples that demonstrate my proficiency in creating impressive and precise technical documents. These examples have been crafted with meticulous attention to detail, ensuring they meet industrial standards.
 
-Contents
+**Contents**
 COEN6731 Project Reports
 
-Purpose
+**Purpose**
 The purpose of this repository is to showcase my technical writing skills and provide tangible evidence of my ability to deliver high-quality documentation. Each document highlights my expertise in conveying complex technical concepts in a clear and concise manner.
 
-Usage
+**Usage**
 Feel free to explore and download the documents to get a sense of my technical writing style and capabilities. These examples are intended for reference purposes and can serve as a benchmark for industrial-level technical documentation.
 
 Copyright
