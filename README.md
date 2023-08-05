@@ -6,8 +6,11 @@ This repository contains a collection of technical writing examples that demonst
 Project Reports
 
 Sample 1: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_I_COEN6731.pdf 
+
 Sample 2: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_II_COEN6731.pdf 
+
 Sample 3: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_III_COEN6731.pdf 
+
 Sample 4: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_ENGR6131.pdf 
 
 **Purpose**
