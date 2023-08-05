@@ -5,6 +5,11 @@ This repository contains a collection of technical writing examples that demonst
 **Contents**
 Project Reports
 
+Sample 1: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_I_COEN6731.pdf 
+Sample 2: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_II_COEN6731.pdf 
+Sample 3: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_III_COEN6731.pdf 
+Sample 4: https://github.com/pranav-k-jha/Technical_Writing/blob/main/Report_ENGR6131.pdf 
+
 **Purpose**
 The purpose of this repository is to showcase my technical writing skills and provide tangible evidence of my ability to deliver high-quality documentation. Each document highlights my expertise in conveying complex technical concepts in a clear and concise manner.
 
